@@ -11,11 +11,11 @@
   },
   "dev": {
     "current": {
-      "versionName": "0.1.0-dev",
-      "versionCode": 1,
-      "buildTime": "2026-05-09 14:49",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.1.0-dev/app-debug.apk",
-      "notes": "Dev build"
+      "versionName": "0.2.0-dev",
+      "versionCode": 2,
+      "buildTime": "2026-05-09 15:30",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.0-dev/pilpel-v0.2.0-dev.apk",
+      "notes": "Bejelentkezés a főlapon, frissítési rendszer, nav bar javítás"
     },
     "history": []
   }
