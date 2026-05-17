@@ -1,44 +1,53 @@
 {
-  "stable": {
-    "current": {
-      "versionName": "0.1.0",
-      "versionCode": 1,
-      "buildTime": "2026-05-09 14:49",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.1.0-stable/app-debug.apk",
-      "notes": "Initial release"
-    },
-    "history": []
-  },
-  "dev": {
-    "current": {
-      "versionName": "0.2.3-dev",
-      "versionCode": 5,
-      "buildTime": "2026-05-09 19:43",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.3-dev/pilpel-v0.2.3-dev.apk",
-      "notes": "Nyelvválasztó: Magyar/English felirat mindig saját nyelvén. Locale fix a nyitóképernyőn."
-    },
-    "history": [
-      {
-        "versionName": "0.2.2-dev",
-        "versionCode": 4,
-        "buildTime": "2026-05-09 19:04",
-        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.2-dev/pilpel-v0.2.2-dev.apk",
-        "notes": "Kamera barcode scan, +/- pick gombok"
-      },
-      {
-        "versionName": "0.2.1-dev",
-        "versionCode": 3,
-        "buildTime": "2026-05-09 XX:XX",
-        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.1-dev/pilpel-v0.2.1-dev.apk",
-        "notes": "Split +/- pick gombok, beállítások átstrukturálás"
-      },
-      {
-        "versionName": "0.2.0-dev",
-        "versionCode": 2,
-        "buildTime": "2026-05-09 15:30",
-        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.0-dev/pilpel-v0.2.0-dev.apk",
-        "notes": "Bejelentkezés a főlapon, frissítési rendszer, nav bar javítás"
-      }
-    ]
-  }
+    "stable":  {
+                   "current":  {
+                                   "versionName":  "0.1.0",
+                                   "versionCode":  1,
+                                   "buildTime":  "2026-05-09 14:49",
+                                   "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.1.0-stable/app-debug.apk",
+                                   "notes":  "Initial release"
+                               },
+                   "history":  [
+
+                               ]
+               },
+    "dev":  {
+                "current":  {
+                                "versionName":  "1.0.1-dev",
+                                "versionCode":  6,
+                                "buildTime":  "2026-05-17 15:06",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.1-dev/hnwarehouse-v1.0.1-dev.apk",
+                                "notes":  "License: contract-szintű nyelv és frissítési URL. Aktiváció: tiszta lap minden setting-tel, demo user eltávolítva. Beállítások: új Activation gomb. Teljes nyelvi lokalizáció."
+                            },
+                "history":  [
+                                {
+                                    "versionName":  "0.2.3-dev",
+                                    "versionCode":  5,
+                                    "buildTime":  "2026-05-09 19:43",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.3-dev/pilpel-v0.2.3-dev.apk",
+                                    "notes":  "Nyelvválasztó: Magyar/English felirat mindig saját nyelvén. Locale fix a nyitóképernyőn."
+                                },
+                                {
+                                    "versionName":  "0.2.2-dev",
+                                    "versionCode":  4,
+                                    "buildTime":  "2026-05-09 19:04",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.2-dev/pilpel-v0.2.2-dev.apk",
+                                    "notes":  "Kamera barcode scan, +/- pick gombok"
+                                },
+                                {
+                                    "versionName":  "0.2.1-dev",
+                                    "versionCode":  3,
+                                    "buildTime":  "2026-05-09 XX:XX",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.1-dev/pilpel-v0.2.1-dev.apk",
+                                    "notes":  "Split +/- pick gombok, beállítások átstrukturálás"
+                                },
+                                {
+                                    "versionName":  "0.2.0-dev",
+                                    "versionCode":  2,
+                                    "buildTime":  "2026-05-09 15:30",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v0.2.0-dev/pilpel-v0.2.0-dev.apk",
+                                    "notes":  "Bejelentkezés a főlapon, frissítési rendszer, nav bar javítás"
+                                }
+                            ]
+            }
 }
