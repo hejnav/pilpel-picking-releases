@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.0.1-dev",
-                                "versionCode":  6,
-                                "buildTime":  "2026-05-17 15:06",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.1-dev/hnwarehouse-v1.0.1-dev.apk",
-                                "notes":  "License: contract-szintű nyelv és frissítési URL. Aktiváció: tiszta lap minden setting-tel, demo user eltávolítva. Beállítások: új Activation gomb. Teljes nyelvi lokalizáció."
+                                "versionName":  "1.0.2-dev",
+                                "versionCode":  7,
+                                "buildTime":  "2026-05-17 15:25",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.2-dev/hnwarehouse-v1.0.2-dev.apk",
+                                "notes":  "License rendszer: contract-szintű app-nyelv és frissítési URL, contract értékek minden aktiválásnál érvényre jutnak. Aktiváció: tiszta lap (mockMode → live váltáskor demo user kitisztul, init-ben is). Beállítások: új Activation gomb a Refresh license felett. Apróbb fordítási javítások"
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.0.1-dev",
+                                    "versionCode":  6,
+                                    "buildTime":  "2026-05-17 15:06",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.1-dev/hnwarehouse-v1.0.1-dev.apk",
+                                    "notes":  "License: contract-szintű nyelv és frissítési URL. Aktiváció: tiszta lap minden setting-tel, demo user eltávolítva. Beállítások: új Activation gomb. Teljes nyelvi lokalizáció."
+                                },
                                 {
                                     "versionName":  "0.2.3-dev",
                                     "versionCode":  5,
