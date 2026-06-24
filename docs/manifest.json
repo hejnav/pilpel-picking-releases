@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.0.3-dev",
-                                "versionCode":  8,
-                                "buildTime":  "2026-05-17 21:48",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.3-dev/hnwarehouse-v1.0.3-dev.apk",
-                                "notes":  "új launcher icon"
+                                "versionName":  "1.0.4-dev",
+                                "versionCode":  9,
+                                "buildTime":  null,
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.4-dev/hnwarehouse-v1.0.4-dev.apk",
+                                "notes":  "1.0.4-dev: kozepre igazitott mennyiseg, merleg szken=leolvasas (auto, 5mp timeout+visszaszamlalo), imager+szovegmezo, allapot ikonok (Kiosztva/Kiszedve), szin- es tizedesjel-javitasok"
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.0.3-dev",
+                                    "versionCode":  8,
+                                    "buildTime":  "2026-05-17 21:48",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.3-dev/hnwarehouse-v1.0.3-dev.apk",
+                                    "notes":  "új launcher icon"
+                                },
                                 {
                                     "versionName":  "1.0.2-dev",
                                     "versionCode":  7,
