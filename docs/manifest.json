@@ -11,13 +11,20 @@
   },
   "dev": {
     "current": {
-      "versionName": "1.0.5-dev",
+      "versionName": "1.0.6-dev",
       "versionCode": 10,
-      "buildTime": "2026-07-21 12:00",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.5-dev/hnwarehouse-v1.0.5-dev.apk",
-      "notes": "PO Receipt: purchase order alapu bevetelezés lot/serial tracking támogatással"
+      "buildTime": "2026-07-21 23:51",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.6-dev/hnwarehouse-v1.0.6-dev.apk",
+      "notes": "test release"
     },
     "history": [
+      {
+        "versionName": "1.0.5-dev",
+        "versionCode": 10,
+        "buildTime": "2026-07-21 12:00",
+        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.5-dev/hnwarehouse-v1.0.5-dev.apk",
+        "notes": "PO Receipt: purchase order alapu bevetelezés lot/serial tracking támogatással"
+      },
       {
         "versionName": "1.0.4-dev",
         "versionCode": 9,
