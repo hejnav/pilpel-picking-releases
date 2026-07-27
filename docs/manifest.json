@@ -12,8 +12,8 @@
   "dev": {
     "current": {
       "versionName": "1.0.7-dev",
-      "versionCode": 12,
-      "buildTime": "2026-07-22 00:30",
+      "versionCode": 13,
+      "buildTime": "2026-07-27 07:10",
       "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.7-dev/hnwarehouse-v1.0.7-dev.apk",
       "notes": "PO Receipt: filter tabs soroknál, crash fix hosszú bizonylatszámnál"
     },
