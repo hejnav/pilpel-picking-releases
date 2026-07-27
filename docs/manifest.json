@@ -11,13 +11,20 @@
   },
   "dev": {
     "current": {
-      "versionName": "1.0.8-dev",
-      "versionCode": 17,
-      "buildTime": "2026-07-27 14:00",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.8-dev/hnwarehouse-v1.0.8-dev.apk",
-      "notes": "PO Receipt: szállító neve és rendelési dátum a listában, fejlécben és sorok képernyőn; kilépés megerősítő dialog; post hiba tisztább üzenetben; save gomb a nav bar felett"
+      "versionName": "1.0.9-dev",
+      "versionCode": 18,
+      "buildTime": "2026-07-27 15:00",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.9-dev/hnwarehouse-v1.0.9-dev.apk",
+      "notes": "PO Receipt: szállító neve és rendelési dátum minden képernyőn; kilépés megerősítő dialog; post hiba tisztább üzenetben; save gomb a nav bar felett"
     },
     "history": [
+      {
+        "versionName": "1.0.8-dev",
+        "versionCode": 17,
+        "buildTime": "2026-07-27 14:00",
+        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.0.8-dev/hnwarehouse-v1.0.8-dev.apk",
+        "notes": "unsigned build - ne használd"
+      },
       {
         "versionName": "1.0.7-dev",
         "versionCode": 16,
