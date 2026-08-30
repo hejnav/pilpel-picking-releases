@@ -1,20 +1,22 @@
 {
-    "stable":  {
-                   "current":  null,
-                   "history":  [
-
-                               ]
-               },
-    "dev":  {
-                "current":  {
-                                "versionName":  "1.1.4-dev",
-                                "versionCode":  23,
-                                "buildTime":  "2026-08-30 20:38",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.4-dev/HnWarehouse-v1.1.4-dev.msi",
-                                "notes":  "Elso Windows kiadas: a kliens a kozos :shared modulbol epul, ugyanabbol a forrasbol, mint az Android app."
-                            },
-                "history":  {
-
-                            }
-            }
+  "stable": {
+    "current": {
+      "versionName": "1.1.4-dev",
+      "versionCode": 23,
+      "buildTime": "2026-08-30 20:38",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.4-dev/HnWarehouse-v1.1.4-dev.msi",
+      "notes": "Elso Windows kiadas: a kliens a kozos :shared modulbol epul, ugyanabbol a forrasbol, mint az Android app."
+    },
+    "history": []
+  },
+  "dev": {
+    "current": {
+      "versionName": "1.1.4-dev",
+      "versionCode": 23,
+      "buildTime": "2026-08-30 20:38",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.4-dev/HnWarehouse-v1.1.4-dev.msi",
+      "notes": "Elso Windows kiadas: a kliens a kozos :shared modulbol epul, ugyanabbol a forrasbol, mint az Android app."
+    },
+    "history": []
+  }
 }
