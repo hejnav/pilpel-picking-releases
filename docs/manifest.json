@@ -11,13 +11,20 @@
   },
   "dev": {
     "current": {
-      "versionName": "1.1.2-dev",
-      "versionCode": 21,
-      "buildTime": "2026-08-30 15:41",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.2-dev/hnwarehouse-v1.1.2-dev.apk",
-      "notes": "1. fazis: a teljes UI-, adat- es BC-reteg a kozos :shared modulbol jon (ketplatformos elokeszites). Funkcionalis valtozas nincs."
+      "versionName": "1.1.3-dev",
+      "versionCode": 22,
+      "buildTime": "2026-08-30 19:12",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.3-dev/hnwarehouse-v1.1.3-dev.apk",
+      "notes": "Allithato felulet-meretezes (85/100/115/130%) a beallitasok kepernyon - betuk, ikonok, terkozok aranyosan."
     },
     "history": [
+      {
+        "versionName": "1.1.2-dev",
+        "versionCode": 21,
+        "buildTime": "2026-08-30 15:41",
+        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.2-dev/hnwarehouse-v1.1.2-dev.apk",
+        "notes": "1. fazis: a teljes UI-, adat- es BC-reteg a kozos :shared modulbol jon (ketplatformos elokeszites). Funkcionalis valtozas nincs."
+      },
       {
         "versionName": "1.1.1-dev",
         "versionCode": 20,
