@@ -19,13 +19,6 @@
     },
     "history": [
       {
-        "versionName": "1.1.0-dev",
-        "versionCode": 19,
-        "buildTime": "2026-08-30 14:02",
-        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.0-dev/hnwarehouse-v1.1.0-dev.apk",
-        "notes": "HIBAS BUILD - inditaskor elszall (AppContext). Ne hasznald, a v1.1.1-dev javitja."
-      },
-      {
         "versionName": "1.0.9-dev",
         "versionCode": 18,
         "buildTime": "2026-07-27 15:00",
