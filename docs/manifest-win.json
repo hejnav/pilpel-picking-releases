@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.8-dev",
-                                "versionCode":  27,
-                                "buildTime":  "2026-08-30 21:34",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.8-dev/HnWarehouse-v1.1.8-dev.msi",
-                                "notes":  "A frissites utan az alkalmazas magatol visszaindul."
+                                "versionName":  "1.1.9-dev",
+                                "versionCode":  28,
+                                "buildTime":  "2026-08-30 21:36",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.9-dev/HnWarehouse-v1.1.9-dev.msi",
+                                "notes":  "A verzio megjelenik az ablak cimsoraban."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.8-dev",
+                                    "versionCode":  27,
+                                    "buildTime":  "2026-08-30 21:34",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.8-dev/HnWarehouse-v1.1.8-dev.msi",
+                                    "notes":  "A frissites utan az alkalmazas magatol visszaindul."
+                                },
                                 {
                                     "versionName":  "1.1.7-dev",
                                     "versionCode":  26,
