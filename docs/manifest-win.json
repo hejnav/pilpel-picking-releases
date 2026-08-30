@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.7-dev",
-                                "versionCode":  26,
-                                "buildTime":  "2026-08-30 21:30",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.7-dev/HnWarehouse-v1.1.7-dev.msi",
-                                "notes":  "Teszt-kiadas a frissites vegigprobalasahoz. Tartalmazza a --probe-install diagnosztikat."
+                                "versionName":  "1.1.8-dev",
+                                "versionCode":  27,
+                                "buildTime":  "2026-08-30 21:34",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.8-dev/HnWarehouse-v1.1.8-dev.msi",
+                                "notes":  "A frissites utan az alkalmazas magatol visszaindul."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.7-dev",
+                                    "versionCode":  26,
+                                    "buildTime":  "2026-08-30 21:30",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.7-dev/HnWarehouse-v1.1.7-dev.msi",
+                                    "notes":  "Teszt-kiadas a frissites vegigprobalasahoz. Tartalmazza a --probe-install diagnosztikat."
+                                },
                                 {
                                     "versionName":  "1.1.6-dev",
                                     "versionCode":  25,
