@@ -11,13 +11,20 @@
   },
   "dev": {
     "current": {
-      "versionName": "1.1.0-dev",
-      "versionCode": 19,
-      "buildTime": "2026-08-30 14:02",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.0-dev/hnwarehouse-v1.1.0-dev.apk",
-      "notes": ":shared modul bevezetese - data- es BC-reteg kiszervezese kozos modulba (ketplatformos elokeszites). Funkcionalis valtozas nincs."
+      "versionName": "1.1.1-dev",
+      "versionCode": 20,
+      "buildTime": "2026-08-30 14:16",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.1-dev/hnwarehouse-v1.1.1-dev.apk",
+      "notes": "JAVITAS: a v1.1.0-dev inditaskor elszallt (AppContext null Contextet kapott). Ez a build javitja."
     },
     "history": [
+      {
+        "versionName": "1.1.0-dev",
+        "versionCode": 19,
+        "buildTime": "2026-08-30 14:02",
+        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.0-dev/hnwarehouse-v1.1.0-dev.apk",
+        "notes": "HIBAS BUILD - inditaskor elszall (AppContext). Ne hasznald, a v1.1.1-dev javitja."
+      },
       {
         "versionName": "1.0.9-dev",
         "versionCode": 18,
