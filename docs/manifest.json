@@ -11,13 +11,20 @@
   },
   "dev": {
     "current": {
-      "versionName": "1.1.3-dev",
-      "versionCode": 22,
-      "buildTime": "2026-08-30 19:12",
-      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.3-dev/hnwarehouse-v1.1.3-dev.apk",
-      "notes": "Allithato felulet-meretezes (85/100/115/130%) a beallitasok kepernyon - betuk, ikonok, terkozok aranyosan."
+      "versionName": "1.1.4-dev",
+      "versionCode": 23,
+      "buildTime": "2026-08-30 20:20",
+      "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.4-dev/hnwarehouse-v1.1.4-dev.apk",
+      "notes": "A nyelvvalaszto a kivalasztott nyelvhez gorget nagyitott feluleten (130%-on korabban kicsuszhatott a lathato reszbol)."
     },
     "history": [
+      {
+        "versionName": "1.1.3-dev",
+        "versionCode": 22,
+        "buildTime": "2026-08-30 19:12",
+        "url": "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.3-dev/hnwarehouse-v1.1.3-dev.apk",
+        "notes": "Allithato felulet-meretezes (85/100/115/130%) a beallitasok kepernyon - betuk, ikonok, terkozok aranyosan."
+      },
       {
         "versionName": "1.1.2-dev",
         "versionCode": 21,
