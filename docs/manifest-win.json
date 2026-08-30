@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.6-dev",
-                                "versionCode":  25,
-                                "buildTime":  "2026-08-30 21:19",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.6-dev/HnWarehouse-v1.1.6-dev.msi",
-                                "notes":  "Javitas: a Windows frissites eddig letoltodott, de nem telepedett (az app nem lepett ki, es az msiexec a futo peldany fajljaiba utkozott)."
+                                "versionName":  "1.1.7-dev",
+                                "versionCode":  26,
+                                "buildTime":  "2026-08-30 21:30",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.7-dev/HnWarehouse-v1.1.7-dev.msi",
+                                "notes":  "Teszt-kiadas a frissites vegigprobalasahoz. Tartalmazza a --probe-install diagnosztikat."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.6-dev",
+                                    "versionCode":  25,
+                                    "buildTime":  "2026-08-30 21:19",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.6-dev/HnWarehouse-v1.1.6-dev.msi",
+                                    "notes":  "Javitas: a Windows frissites eddig letoltodott, de nem telepedett (az app nem lepett ki, es az msiexec a futo peldany fajljaiba utkozott)."
+                                },
                                 {
                                     "versionName":  "1.1.5-dev",
                                     "versionCode":  24,
