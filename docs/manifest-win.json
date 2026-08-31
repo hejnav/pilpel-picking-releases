@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.9-dev",
-                                "versionCode":  28,
-                                "buildTime":  "2026-08-30 21:36",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.9-dev/HnWarehouse-v1.1.9-dev.msi",
-                                "notes":  "A verzio megjelenik az ablak cimsoraban."
+                                "versionName":  "1.1.10-dev",
+                                "versionCode":  29,
+                                "buildTime":  "2026-08-31 08:18",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.10-dev/HnWarehouse-v1.1.10-dev.msi",
+                                "notes":  "Kamera nelkuli eszkozon is telepitheto (a kamera mostantol nem kotelezo hardver). A frissites utan nem marad a gepen a letoltott telepitocsomag."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.9-dev",
+                                    "versionCode":  28,
+                                    "buildTime":  "2026-08-30 21:36",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.9-dev/HnWarehouse-v1.1.9-dev.msi",
+                                    "notes":  "A verzio megjelenik az ablak cimsoraban."
+                                },
                                 {
                                     "versionName":  "1.1.8-dev",
                                     "versionCode":  27,
