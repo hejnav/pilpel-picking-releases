@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.10-dev",
-                                "versionCode":  29,
-                                "buildTime":  "2026-08-31 08:20",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.10-dev/hnwarehouse-v1.1.10-dev.apk",
-                                "notes":  "Kamera nelkuli eszkozon is telepitheto (a kamera mostantol nem kotelezo hardver). A frissites utan nem marad a gepen a letoltott telepitocsomag."
+                                "versionName":  "1.1.11-dev",
+                                "versionCode":  30,
+                                "buildTime":  "2026-09-02 08:46",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.11-dev/hnwarehouse-v1.1.11-dev.apk",
+                                "notes":  "Windows: javitva a nyelvvaltas - a valasztott nyelv azonnal ervenyre jut, nem kell ujraindítani az alkalmazast. Javitva az is, hogy a nagyitas allitasa visszaallitotta a korabbi nyelvet."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.10-dev",
+                                    "versionCode":  29,
+                                    "buildTime":  "2026-08-31 08:20",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.10-dev/hnwarehouse-v1.1.10-dev.apk",
+                                    "notes":  "Kamera nelkuli eszkozon is telepitheto (a kamera mostantol nem kotelezo hardver). A frissites utan nem marad a gepen a letoltott telepitocsomag."
+                                },
                                 {
                                     "versionName":  "1.1.6-dev",
                                     "versionCode":  25,
