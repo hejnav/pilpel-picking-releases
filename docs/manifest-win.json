@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.10-dev",
-                                "versionCode":  29,
-                                "buildTime":  "2026-08-31 08:18",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.10-dev/HnWarehouse-v1.1.10-dev.msi",
-                                "notes":  "Kamera nelkuli eszkozon is telepitheto (a kamera mostantol nem kotelezo hardver). A frissites utan nem marad a gepen a letoltott telepitocsomag."
+                                "versionName":  "1.1.11-dev",
+                                "versionCode":  30,
+                                "buildTime":  "2026-09-02 08:44",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.11-dev/HnWarehouse-v1.1.11-dev.msi",
+                                "notes":  "Windows: javitva a nyelvvaltas - a valasztott nyelv azonnal ervenyre jut, nem kell ujraindítani az alkalmazast. Javitva az is, hogy a nagyitas allitasa visszaallitotta a korabbi nyelvet."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.10-dev",
+                                    "versionCode":  29,
+                                    "buildTime":  "2026-08-31 08:18",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.10-dev/HnWarehouse-v1.1.10-dev.msi",
+                                    "notes":  "Kamera nelkuli eszkozon is telepitheto (a kamera mostantol nem kotelezo hardver). A frissites utan nem marad a gepen a letoltott telepitocsomag."
+                                },
                                 {
                                     "versionName":  "1.1.9-dev",
                                     "versionCode":  28,
