@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.11-dev",
-                                "versionCode":  30,
-                                "buildTime":  "2026-09-02 08:46",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.11-dev/hnwarehouse-v1.1.11-dev.apk",
-                                "notes":  "Windows: javitva a nyelvvaltas - a valasztott nyelv azonnal ervenyre jut, nem kell ujraindítani az alkalmazast. Javitva az is, hogy a nagyitas allitasa visszaallitotta a korabbi nyelvet."
+                                "versionName":  "1.1.12-dev",
+                                "versionCode":  31,
+                                "buildTime":  "2026-09-05 16:36",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.12-dev/hnwarehouse-v1.1.12-dev.apk",
+                                "notes":  "Javitva: 24 ora utan ures volt a fomenu. Az alkalmazas mostantol magatol ujravalidalja a licencet, es ha nem sikerul, megmondja miert - a korabbi licenc pedig megmarad, tehat halozat nelkul is lehet dolgozni. A fomenu csempei kisebbek es gorgethetok, a Windows ablak alapertelmezetten kisebb."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.11-dev",
+                                    "versionCode":  30,
+                                    "buildTime":  "2026-09-02 08:46",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/v1.1.11-dev/hnwarehouse-v1.1.11-dev.apk",
+                                    "notes":  "Windows: javitva a nyelvvaltas - a valasztott nyelv azonnal ervenyre jut, nem kell ujraindítani az alkalmazast. Javitva az is, hogy a nagyitas allitasa visszaallitotta a korabbi nyelvet."
+                                },
                                 {
                                     "versionName":  "1.1.10-dev",
                                     "versionCode":  29,
