@@ -13,13 +13,20 @@
                },
     "dev":  {
                 "current":  {
-                                "versionName":  "1.1.12-dev",
-                                "versionCode":  31,
-                                "buildTime":  "2026-09-05 16:34",
-                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.12-dev/HnWarehouse-v1.1.12-dev.msi",
-                                "notes":  "Javitva: 24 ora utan ures volt a fomenu. Az alkalmazas mostantol magatol ujravalidalja a licencet, es ha nem sikerul, megmondja miert - a korabbi licenc pedig megmarad, tehat halozat nelkul is lehet dolgozni. A fomenu csempei kisebbek es gorgethetok, a Windows ablak alapertelmezetten kisebb."
+                                "versionName":  "1.1.13-dev",
+                                "versionCode":  32,
+                                "buildTime":  "2026-09-05 17:37",
+                                "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.13-dev/HnWarehouse-v1.1.13-dev.msi",
+                                "notes":  "Javitva: a vonalkod-olvaso Enterje nem inditotta el a beolvasast Windowson - mostantol a szkennelt kod utan a talalati sor magatol megnyilik. A fomenu lablece egy sorra fogyott (email / kornyezet)."
                             },
                 "history":  [
+                                {
+                                    "versionName":  "1.1.12-dev",
+                                    "versionCode":  31,
+                                    "buildTime":  "2026-09-05 16:34",
+                                    "url":  "https://github.com/hejnav/pilpel-picking-releases/releases/download/win-v1.1.12-dev/HnWarehouse-v1.1.12-dev.msi",
+                                    "notes":  "Javitva: 24 ora utan ures volt a fomenu. Az alkalmazas mostantol magatol ujravalidalja a licencet, es ha nem sikerul, megmondja miert - a korabbi licenc pedig megmarad, tehat halozat nelkul is lehet dolgozni. A fomenu csempei kisebbek es gorgethetok, a Windows ablak alapertelmezetten kisebb."
+                                },
                                 {
                                     "versionName":  "1.1.11-dev",
                                     "versionCode":  30,
